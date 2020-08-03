@@ -1,5 +1,5 @@
 const eris = require('eris');
-const { BOT_TOKEN } = require('../config.json');
+const { UTtA1F5zRCyPL-J7UadFJiTAq01_drf2 } = require('../config.json');
 
 // Create a Client instance with our bot token.
 const bot = new eris.Client(BOT_TOKEN);
